@@ -1,2 +1,2 @@
-# learning-git
-learning how to use git and github
+# learning-git and Github
+## Learning how to use git and Github form amigoscode
